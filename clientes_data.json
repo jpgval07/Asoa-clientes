@@ -1,0 +1,83 @@
+[
+  {
+    "nombre_completo": "Agroempresa Los Pinos S.A.",
+    "persona_contacto": "Juan Pérez García",
+    "telefono": "9241095927",
+    "rfc": "AGRO123456XYZ",
+    "nombre_predio": "Rancho El Sol",
+    "ubicacion": "21.1234, -101.5678",
+    "superficie_ha": 12.0,
+    "tipo_cultivo": "Maíz",
+    "historial_cultivos": [
+      "Maíz",
+      "Trigo",
+      "Sorgo"
+    ],
+    "fecha_siembra": "2025-06-10",
+    "servicios": [],
+    "observaciones": "Acceso complicado por lluvias. Cliente muy puntual en pagos.",
+    "alertas": "Monitoreo NDVI programado en 2 semanas.",
+    "fecha_proximo_contacto": "2025-08-15",
+    "estado_cliente": "Activo",
+    "costo_servicio": 4800.0,
+    "estado_cuenta": "Pagado",
+    "nivel_satisfaccion": 5,
+    "referencias": [
+      "Cliente vecino recomendó"
+    ],
+    "etiqueta": "cultivo intensivo"
+  },
+  {
+    "nombre_completo": "Campo Verde Sustentable",
+    "persona_contacto": "Ana López Martínez",
+    "telefono": "555-5678",
+    "rfc": "CAMPO987654ZYX",
+    "nombre_predio": "Parcela Verde Norte",
+    "ubicacion": "20.9876, -100.1234",
+    "superficie_ha": 10.0,
+    "tipo_cultivo": "Trigo",
+    "historial_cultivos": [
+      "Trigo",
+      "Sorgo",
+      "Avena"
+    ],
+    "fecha_siembra": "2025-05-20",
+    "servicios": [],
+    "observaciones": "Cultivo orgánico certificado. Excelente manejo del predio.",
+    "alertas": "Revisar humedad del suelo y programar riego.",
+    "fecha_proximo_contacto": "2025-08-25",
+    "estado_cliente": "Activo",
+    "costo_servicio": 3500.0,
+    "estado_cuenta": "Pendiente",
+    "nivel_satisfaccion": 3,
+    "referencias": [
+      "Agroempresa Los Pinos"
+    ],
+    "etiqueta": "cliente premium"
+  },
+  {
+    "nombre_completo": "Soluciones Agrícolas del Bajío",
+    "persona_contacto": "Carlos Ruiz Hernández",
+    "telefono": "555-9999",
+    "rfc": "SOLAGR123456ABC",
+    "nombre_predio": "Lote Amarillo",
+    "ubicacion": "22.4567, -102.3456",
+    "superficie_ha": 5.0,
+    "tipo_cultivo": "Sorgo",
+    "historial_cultivos": [
+      "Sorgo",
+      "Maíz"
+    ],
+    "fecha_siembra": "2025-07-01",
+    "servicios": [],
+    "observaciones": "Nuevo sistema de riego instalado. Requiere seguimiento.",
+    "alertas": "Verificar funcionamiento del sistema de riego en 1 semana.",
+    "fecha_proximo_contacto": "2025-08-10",
+    "estado_cliente": "Prospecto",
+    "costo_servicio": 1200.0,
+    "estado_cuenta": "Parcial",
+    "nivel_satisfaccion": 3,
+    "referencias": [],
+    "etiqueta": "tecnificación"
+  }
+]

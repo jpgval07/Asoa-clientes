@@ -1,0 +1,18 @@
+# Sistema de Gestión de Clientes ASOA - Versión Render
+# Este proyecto usa solo librerías estándar de Python para máxima compatibilidad
+
+# No requiere dependencias externas
+# Todas las librerías son parte de la instalación estándar de Python 3:
+# - http.server (servidor web)
+# - json (persistencia de datos)  
+# - os (manejo de archivos y variables de entorno)
+# - datetime (fechas)
+# - urllib.parse (manejo de URLs y formularios)
+
+# Dependencias opcionales:
+# Pillow>=8.0.0  # Para manejo avanzado de imágenes (opcional)
+
+# Notas:
+# - Python 3.7+ requerido
+# - Tkinter viene incluido con Python
+# - No requiere instalación adicional para funcionalidad básica
